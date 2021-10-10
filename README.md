@@ -1,3 +1,3 @@
-### Hi there, I'm hongshu Che! 👋
+### Hi there, I'm Hongshu Che! 👋
+[![Hongshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chehongshu)](https://github.com/anuraghazra/github-readme-stats)
 
-[![hongshu's github stats](https://github-readme-stats.vercel.app/api?username=chehongshu&show_icons=true&theme=vue)](https://github.com/chehongshu/github-readme-stats)
